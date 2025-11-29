@@ -1,0 +1,5 @@
+[
+    { "name": "WaterSprite", "element": "water", "attack": 9, "health": 28 },
+    { "name": "AquaSerpent", "element": "water", "attack": 11, "health": 32 },
+    { "name": "BubbleFairy", "element": "water", "attack": 7, "health": 24 }
+]

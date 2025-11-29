@@ -1,0 +1,5 @@
+[
+    {"name": "Fire Elemental", "element": "fire", "attack": 5, "health": 10},
+    {"name": "Water Elemental", "element": "water", "attack": 4, "health": 12},
+    {"name": "Grass Elemental", "element": "grass", "attack": 3, "health": 8}
+]

@@ -1,0 +1,5 @@
+[
+    { "name": "FireDragon", "element": "fire", "attack": 10, "health": 30 },
+    { "name": "FlameSprite", "element": "fire", "attack": 8, "health": 25 },
+    { "name": "LavaGolem", "element": "fire", "attack": 12, "health": 35 }
+]
